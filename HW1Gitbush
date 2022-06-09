@@ -1,0 +1,27 @@
+
+HW_1. The first part
+1- pwd   (Посмотреть где я)
+2- mkdir name   (Создать папку)
+3- cd name      (Зайти в папку)
+4- mkdir 1folder/ 2folder/ 3folder (Создать 3 папки)
+5- cd namefolder/   (Зайти в любоую папку)
+6- touch name1.txt name2.txt name3.txt name4.json name5.json
+ Создать 5 файлов (3 txt, 2 json)
+7- mkdir 1folder 2folder 3folder (Создать 3 папки)
+8- ls -la   (Вывести список содержимого папки)
+9- cat name.txt (Открыть любой txt файл)
+10- cat >> name.txt   (написать туда что-нибудь, любой текст)
+11- ctrl+c (сохранить и выйти)
+12- cd ..    (Выйти из папки на уровень выше)
+13- mv namefolder/ name1.txt name2.txt  namefolder2/ name1.txt name2.txt
+переместить любые 2 файла, которые вы создали,
+в любую другую папку)
+14- cp namefolder/ name1.txt name2.txt namefolder2/ name1.txt name2.txt
+(скопировать любые 2 файла, которые вы создали, в любую другую папку)
+15- find -name "word*"
+(Найти файл по имени)
+16- grep name name.txt   (просмотр содержимого в реальном времени)
+17- head -3 name.txt (вывести несколько первых строк из текстового файла)
+18- tail -2 name.txt (вывести несколько последних строк из текстового файла
+19- less name.txt (просмотреть содержимое длинного файла (команда less)
+20- date (вывести дату и время)
